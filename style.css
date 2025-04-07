@@ -1,0 +1,26 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+}
+
+#heading > th{
+    min-width: 100px;
+    padding: .5rem;
+    background-color: #2e2e2e;
+    border: 1px transparent;
+    border-radius: .25rem;
+
+}
+
+tr > td{
+    min-width: 100px;
+    margin: 1rem;
+    padding: .5rem;
+    background-color: #2e2e2e;
+    border: 1px transparent;
+    border-radius: .25rem;
+}
